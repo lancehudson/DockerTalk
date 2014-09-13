@@ -1,4 +1,4 @@
-##  Resources
+##  Getting Started & Resources
 
 * cli - https://docs.docker.com/reference/commandline/cli/
 * dockerfile - https://docs.docker.com/reference/builder/
