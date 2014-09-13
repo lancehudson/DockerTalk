@@ -23,14 +23,17 @@
         "tap.md"
     ],
     "typical-environment.md",
+    "how-can-you-use-it.md",
     [
-        "how-can-you-use-it.md",
         "easy-deployment.md",
-        "continuous-integration.md",
-        "platform-as-a-service.md",
-        "continuous-delivery.md",
-        "development-environment.md",
-        "micro-services.md"
+        "easy-deployment2.md",
+        "easy-deployment3.md",
+        "easy-deployment4.md"
     ],
+    "continuous-integration.md",
+    "platform-as-a-service.md",
+    "continuous-delivery.md",
+    "development-environment.md",
+    "micro-services.md",
     "resources.md"
 ]

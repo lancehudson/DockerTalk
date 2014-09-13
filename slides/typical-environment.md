@@ -18,6 +18,7 @@
 				<li>Multiple dependencies to manage</li>
 				<li>Differences between production, staging, qa, development</li>
 				<li>“DLL HELL”</li>
+				<li>"Works on my machine"</li>
 			</ul>
 		</td>
 	</tr>
