@@ -287,6 +287,13 @@
             ga('require', 'linkid', 'linkid.js');
             ga('send', 'pageview');
 
+            Reveal.addEventListener( 'slidechanged', function( event ) {
+                    // event.previousSlide, event.currentSlide, event.indexh, event.indexv
+                    ga('send', 'pageview', {
+                     'page': location.pathname + location.search  + location.hash
+                    });
+                } );
+
         </script>
     </body>
 
